@@ -4,6 +4,8 @@
 
 ### :point_right: [Here](http://smilegupta.github.io/) is a link visit my portfolio. 
 
+### :handshake: [Here](https://fayz.in/stories/s/1569/0/?ckt_id=ZGL1ZGVk&title=Help_for_beginners_smile_gupta) is my story from where i developed from an introvert to an outgoing extrovert: <br><br>
+
 ### :wave: I'm social! <br>
 
 :white_check_mark: **[Connect with me on LinkedIn](https://www.linkedin.com/in/smilegupta/).** <br>
