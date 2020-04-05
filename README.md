@@ -6,30 +6,19 @@
 
 ### :handshake: [Here](https://fayz.in/stories/s/1569/0/?ckt_id=ZGL1ZGVk&title=Help_for_beginners_smile_gupta) is my story from where i developed from an introvert to an outgoing extrovert: <br><br>
 
-### :wave: I'm social! <br>
+-----
 
-:white_check_mark: **[Connect with me on LinkedIn](https://www.linkedin.com/in/smilegupta/).** <br>
+### Need help?
 
-:white_check_mark: **[Say Hi on Twitter](https://twitter.com/gupta_smile_).** <br>
+```javascript
 
-:white_check_mark: **[Follow me on Hackerrank](https://www.hackerrank.com/smilegupta).** <br><br>
+  if (needHelp === true) {
+     var emailId = "guptamiley@gmail.com";
+     // email is the best way to reach out to me.
+     sendEmail(emailId);
+  }
 
-/**
- *
- * {github.repos}: https://github.com/smilegupta?tab=repositories
- *
- */
-console.log(`Thank you for visitng my website! Have a look at my {github.repos}`);
+```
+Invite me to connect on [LinkedIn](https://www.linkedin.com/in/smilegupta/).
 
-myRepos.forEach((repo) => {
-
-   if(repo.isAwesome()) {
-   
-       starRepository(repo); // thanks in advance ッ
-   
-   }
-
-})
-
-
-
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smilegupta.1998&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/smilegupta.1998)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@gupta_smile_&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/gupta_smile_/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@gupta_smile_&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/gupta_smile_)
