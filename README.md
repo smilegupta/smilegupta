@@ -14,4 +14,22 @@
 
 :white_check_mark: **[Follow me on Hackerrank](https://www.hackerrank.com/smilegupta).** <br><br>
 
+/**
+ *
+ * {github.repos}: https://github.com/smilegupta?tab=repositories
+ *
+ */
+console.log(`Thank you for visitng my website! Have a look at my {github.repos}`);
+
+myRepos.forEach((repo) => {
+
+   if(repo.isAwesome()) {
+   
+       starRepository(repo); // thanks in advance ッ
+   
+   }
+
+})
+
+
 
