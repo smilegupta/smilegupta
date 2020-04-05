@@ -1,0 +1,452 @@
+#SkillBox {
+    font-size: 4px;
+    font-family: 'Montserrat', sans-serif;
+    width: 95%;
+    height: auto;
+    margin: 20px auto;
+    background-color: transparent;
+    
+    padding: 10px;
+      
+}
+#SkillBox img {
+    width: 20%;
+    height: 10%;
+    margin: auto 35%;
+    padding: 10px;
+}
+.SkillBar {
+    width: 90%;
+    height: 50px;
+    position: relative;
+    background: rgba(17, 17, 17, .3);
+    margin: 20px auto;
+}
+#Skill-HTML {
+    width: 80%;
+    animation: Animate-HTML 4s;
+    -webkit-animation: Animate-HTML 4s;
+    -moz-animation: Animate-HTML 4s;
+    -o-animation: Animate-HTML 4s;
+    height: 50px;
+    position: absolute;
+    background-color: #ea8564;
+}
+@keyframes Animate-HTML {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}@-webkit-keyframes Animate-HTML {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}@-moz-keyframes Animate-HTML {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}@-o-keyframes Animate-HTML {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}#Skill-CSS {
+    animation: Animate-CSS 5s;
+    -webkit-animation: Animate-CSS 5s;
+    -moz-animation: Animate-CSS 5s;
+    -o-animation: Animate-CSS 5s;
+    width: 70%;
+    height: 50px;
+    position: absolute;
+    background-color: #55a69f;
+}
+@keyframes Animate-CSS {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-webkit-keyframes Animate-CSS {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-moz-keyframes Animate-CSS {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-o-keyframes Animate-CSS {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}#Skill-Angular {
+    animation: Animate-Angular 5s;
+    -webkit-animation: Animate-Angular 5s;
+    -moz-animation: Animate-Angular 5s;
+    -o-animation: Animate-Angular 5s;
+    width: 60%;
+    height: 50px;
+    position: absolute;
+    background-color: #99856d;
+}
+@keyframes Animate-Angular {
+    from {
+    width: 10px;
+}
+to {
+    width: 60%}
+}@-webkit-keyframes Animate-Angular {
+    from {
+    width: 10px;
+}
+to {
+    width: 60%}
+}@-moz-keyframes Animate-Angular {
+    from {
+    width: 10px;
+}
+to {
+    width: 60%}
+}@-o-keyframes Animate-Angular {
+    from {
+    width: 10px;
+}
+to {
+    width: 60%}
+}#Skill-Bootstrap {
+    animation: Animate-Bootstrap 4s;
+    -webkit-animation: Animate-Bootstrap 4s;
+    -moz-animation: Animate-Bootstrap 4s;
+    -o-animation: Animate-Bootstrap 4s;
+    width: 70%;
+    height: 50px;
+    position: absolute;
+    background-color: #c44e45;
+}
+@keyframes Animate-Bootstrap {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-webkit-keyframes Animate-Bootstrap {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-moz-keyframes Animate-Bootstrap {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-o-keyframes Animate-Bootstrap {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}#Skill-cpp {
+    animation: Animate-cpp 4s;
+    -webkit-animation: Animate-cpp 4s;
+    -moz-animation: Animate-cpp 4s;
+    -o-animation: Animate-cpp 4s;
+    width: 80%;
+    height: 50px;
+    position: absolute;
+    background-color: #5aa669;
+}
+@keyframes Animate-cpp {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}@-webkit-keyframes Animate-cpp {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}@-moz-keyframes Animate-cpp {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}@-o-keyframes Animate-cpp {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}#Skill-C {
+    animation: Animate-C 4s;
+    -webkit-animation: Animate-C 4s;
+    -moz-animation: Animate-C 4s;
+    -o-animation: Animate-C 4s;
+    width: 70%;
+    height: 50px;
+    position: absolute;
+    background-color: #970cc1;
+}
+@keyframes Animate-C {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-webkit-keyframes Animate-C {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-moz-keyframes Animate-C {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-o-keyframes Animate-C {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}#Skill-TBp {
+    animation: Animate-JAVA 4s;
+    -webkit-animation: Animate-JAVA 4s;
+    -moz-animation: Animate-JAVA 4s;
+    -o-animation: Animate-JAVA 4s;
+    width: 80%;
+    height: 50px;
+    position: absolute;
+    background-color: #8e930c;
+}
+@keyframes Animate-TBp {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}@-webkit-keyframes Animate-TBp {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}@-moz-keyframes Animate-TBp {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}@-o-keyframes Animate-TBp {
+    from {
+    width: 10px;
+}
+to {
+    width: 80%}
+}#Skill-MS {
+    animation: Animate-MS 4s;
+    -webkit-animation: Animate-MS 4s;
+    -moz-animation: Animate-MS 4s;
+    -o-animation: Animate-MS 4s;
+    width: 90%;
+    height: 50px;
+    position: absolute;
+    background-color: #5A69A6;
+}
+@keyframes Animate-MS {
+    from {
+    width: 10px;
+}
+to {
+    width: 90%}
+}@-webkit-keyframes Animate-MS {
+    from {
+    width: 10px;
+}
+to {
+    width: 90%}
+}@-moz-keyframes Animate-MS {
+    from {
+    width: 10px;
+}
+to {
+    width: 90%}
+}@-o-keyframes Animate-MS {
+    from {
+    width: 10px;
+}
+to {
+    width: 90%}
+}#Skill-TB {
+    animation: Animate-TB 4s;
+    -webkit-animation: Animate-TB 4s;
+    -moz-animation: Animate-TB 4s;
+    -o-animation: Animate-TB 4s;
+    width: 70%;
+    height: 50px;
+    position: absolute;
+    background-color: #23b1db;
+}
+@keyframes Animate-TB {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-webkit-keyframes Animate-TB {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-moz-keyframes Animate-TB {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-o-keyframes Animate-TB {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}#Skill-R {
+    animation: Animate-R 4s;
+    -webkit-animation: Animate-R 4s;
+    -moz-animation: Animate-R 4s;
+    -o-animation: Animate-R 4s;
+    width: 60%;
+    height: 50px;
+    position: absolute;
+    background-color: #f8a51e;
+}
+@keyframes Animate-R {
+    from {
+    width: 10px;
+}
+to {
+    width: 35%}
+}@-webkit-keyframes Animate-R {
+    from {
+    width: 10px;
+}
+to {
+    width: 35%}
+}@-moz-keyframes Animate-R{
+    from {
+    width: 10px;
+}
+to {
+    width: 35%}
+}@-o-keyframes Animate-R {
+    from {
+    width: 10px;
+}
+to {
+    width: 35%}
+}.Skill-Area {
+    z-index: 1;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    text-shadow: none;
+    color: #fff;
+    font-size: 16px;
+}
+.PercentText {
+    z-index: 3;
+    position: relative;
+    padding-right: 15px;
+    margin-top: 15px;
+    float: right;
+    text-shadow: none;
+    color: #fff;
+    font-size: 16px;
+}#Skill-python {
+    animation: Animate-python 4s;
+    -webkit-animation: Animate-python 4s;
+    -moz-animation: Animate-python 4s;
+    -o-animation: Animate-python 4s;
+    width: 60%;
+    height: 50px;
+    position: absolute;
+    background-color: #5A69A6;
+}
+@keyframes Animate-python {
+    from {
+    width: 10px;
+}
+to {
+    width: 60%}
+}@-webkit-keyframes Animate-python {
+    from {
+    width: 10px;
+}
+to {
+    width: 60%}
+}@-moz-keyframes Animate-python {
+    from {
+    width: 10px;
+}
+to {
+    width: 60%}
+}@-o-keyframes Animate-python {
+    from {
+    width: 10px;
+}
+to {
+    width: 60%}
+}
+#Skill-Java {
+    animation: Animate-Java 4s;
+    -webkit-animation: Animate-Java 4s;
+    -moz-animation: Animate-Java 4s;
+    -o-animation: Animate-Java 4s;
+    width: 50%;
+    height: 50px;
+    position: absolute;
+    background-color: #c44e45;
+}
+@keyframes Animate-Java {
+    from {
+    width: 10px;
+}
+to {
+    width: 50%}
+}@-webkit-keyframes Animate-Java {
+    from {
+    width: 10px;
+}
+to {
+    width: 50%}
+}@-moz-keyframes Animate-Java {
+    from {
+    width: 10px;
+}
+to {
+    width: 50%}
+}@-o-keyframes Animate-Java {
+    from {
+    width: 10px;
+}
+to {
+    width: 50%}
+}
