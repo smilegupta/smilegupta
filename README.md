@@ -9,7 +9,7 @@
 -----
 ## Technology Stack Used
 
-![JetBrains Tools](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
+![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/framework-bootstrap-dodgerblue.svg?logo=bootstrap&style=flat-square)
 
