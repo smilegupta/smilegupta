@@ -11,7 +11,9 @@
 
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/framework-bootstrap-dodgerblue.svg?logo=bootstrap&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/framework-bootstrap-white.svg?logo=bootstrap&style=flat-square)
+![JavaScript](https://img.shields.io/badge/framework-javascript-dodgerblue.svg?logo=javascript&style=flat-square)
+
 
 - Front End - **HTML**, **CSS**
 - Framewrok - **[Bootstrap](https://getbootstrap.com/)**
