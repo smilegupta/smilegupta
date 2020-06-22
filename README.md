@@ -14,7 +14,7 @@
 
 
 - Front End - **HTML**, **CSS**
-- Framewrok - **[Bootstrap](https://getbootstrap.com/)**
+- Framework - **[Bootstrap](https://getbootstrap.com/)**
 
 ### Need help?
 
