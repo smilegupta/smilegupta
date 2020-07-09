@@ -1,4 +1,8 @@
 # Hello World  I'm [Smile Gupta](https://fayz.in/stories/s/1569/0/?ckt_id=ZGL1ZGVk&title=Help_for_beginners_smile_gupta)
+<br>
+    <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+
 
 - :woman_office_worker: I'm a Full Stack Engineer at KonfHub a.k.a. CodeOps Tech Bengaluru happily working on Next.js and GraphQL 
 - :hourglass_flowing_sand: I am looking forward to complete my #100daysofCode in Competative Coding 
