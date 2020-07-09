@@ -6,42 +6,12 @@
 
 ### :handshake: [Here](https://fayz.in/stories/s/1569/0/?ckt_id=ZGL1ZGVk&title=Help_for_beginners_smile_gupta) is my story from where I developed from an introvert to an outgoing extrovert: <br><br>
 
------
-## Technology Stack Used
-
-![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
-![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
-
-
-- Front End - **HTML**, **CSS**
-- Framework - **[Bootstrap](https://getbootstrap.com/)**
-
-### Need help?
-
-```
-
-  if (needHelp === true) {
-     var emailId = "guptamiley3012@gmail.com";
-     // email is the best way to reach out to me.
-     sendEmail(emailId);
-  }
-
-```
+- :woman_office_worker: I'm a Full Stack Engineer at KonfHub a.k.a. CodeOps Tech Bengaluru happily working with Next.js and GraphQL 
+- :hourglass_flowing_sand: I am looking forward to complete my #100daysofCode in Competative Coding 
+- :microscope: Always ready to collaborate for any Pro Bono Publico activity
+- :mailbox: How to reach me: [**Linkedin**](https://www.linkedin.com/in/smilegupta/) and [**Twitter**](https://twitter.com/smileguptaaa) 
+- :dart: Life Mantra: "Success Belongs to those who dare to Dream BIGG"
+- :trophy: 21 under 21 awardee by GirlScript Foundation - for my immense social contributions.
+- :zap: Fun fact: I EAT, DRINK AND BREATHE CODING!
 
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=facebook&style=flat&logoColor=white&colorA=royalblue)](https://www.facebook.com/smileguptaaa)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=instagram&style=flat&logoColor=white&colorA=royalblue)](https://www.instagram.com/smileguptaaa/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=royalblue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@smileguptaaa&color=grey&logo=twitter&style=flat&logoColor=white&colorA=royalblue)](https://twitter.com/smileguptaaa)
-
-***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/smilegupta/) this repo.***
-
------
-
-```
-
-  if (isAwesome) {
-    // thanks in advance :p
-    starThisRepository();
-  }
-
-```
-
-******
