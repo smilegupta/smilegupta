@@ -1,6 +1,6 @@
 # Hello World  I'm [Smile Gupta](https://fayz.in/stories/s/1569/0/?ckt_id=ZGL1ZGVk&title=Help_for_beginners_smile_gupta)
-<br>
-   <!--  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Coder GIF" width="500" height="400"> -->
+ 
+ <!--  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Coder GIF" width="500" height="400"> -->
 
 
 
