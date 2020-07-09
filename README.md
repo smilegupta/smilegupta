@@ -7,7 +7,7 @@
 - :dart: Life Mantra: "Success Belongs to those who dare to Dream BIGG"
 - :trophy: 21 under 21 awardee by GirlScript Foundation - for my immense social contributions.
 - :point_right: This is where you can [view](https://smilegupta.github.io/smilegupta/) my portfolio. 
-- :zap: Fun fact: I EAT, DRINK AND BREATHE CODING!
+- :zap: Fun fact: People get addicted to tea coffee or beer, I got addicted to green dots of GitHub
 
 
 
