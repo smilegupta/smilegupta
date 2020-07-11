@@ -7,7 +7,7 @@ The green dots on my [**GitHub profile**](https://github.com/smilegupta?tab=repo
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=smilegupta.visitor-badge)](https://github.com/smilegupta) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta)
 
 :dart: Find me Interesting? 
-**Say Hi to me on LinkedIn([@smilegupta](https://www.linkedin.com/in/smilegupta/))** :heart: 
+**Say Hi to me on LinkedIn(https://www.linkedin.com/in/smilegupta/)** :heart: 
 
 ## Any Project you want me a part of ?
 
