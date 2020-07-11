@@ -6,7 +6,7 @@ The green dots on my [**GitHub profile**](https://github.com/smilegupta?tab=repo
 :dart: Find me Interesting? 
 **Say Hi to me on LinkedIn(https://www.linkedin.com/in/smilegupta/)** :heart: 
 
-## Any Project you want me a part of ?
+#### Any Project you want me a part of ?
 
 * 👀 Ping me on [Telegram](https://t.me/smilegupta)
 
