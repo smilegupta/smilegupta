@@ -6,11 +6,7 @@ The green dots on my [**GitHub profile**](https://github.com/smilegupta?tab=repo
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=smilegupta.visitor-badge)](https://github.com/smilegupta) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta)
 
-**Say Hi on LinkedIN([@smilegupta](https://www.linkedin.com/in/smilegupta/))!** :heart: 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
-
-
+**Say Hi on LinkedIn([@smilegupta](https://www.linkedin.com/in/smilegupta/))!** :heart: 
 
 
 - :woman_office_worker: I'm a Full Stack Engineer at KonfHub a.k.a. CodeOps Tech Bengaluru happily working on Next.js and GraphQL 
