@@ -5,7 +5,7 @@
 The green dots on my [**GitHub profile**](https://github.com/smilegupta?tab=repositories) represent my [**journey**](https://fayz.in/stories/s/1569/0/?ckt_id=ZGL1ZGVk&title=Help_for_beginners_smile_gupta) :running_woman: - From being curious to becoming Full Stack Engineer at [**KonfHub a.k.a. CodeOps Tech Bengaluru**](https://konfhub.com/). This is where you can [view](https://smilegupta.github.io/smilegupta/) my portfolio.  Besides [**GitHub**](https://github.com/smile/), You can find me on [**Twitter**](https://twitter.com/smileguptaaa). Currently, I am looking forward to complete my #100daysofCode in Competative Coding. I'm always ready to collaborate for any Pro Bono Publico activity or delivering some hands on sessions.
 
 :dart: Find me Interesting? 
-**Say Hi to me on LinkedIn(https://www.linkedin.com/in/smilegupta/)** :heart: 
+**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/smilegupta/)** :heart: 
 
 #### Any Project you want me a part of ?
 
