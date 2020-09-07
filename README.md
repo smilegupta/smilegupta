@@ -18,4 +18,4 @@ The green dots on my [**GitHub profile**](https://github.com/smilegupta?tab=repo
 
 
 
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=smilegupta&count_private=true&show_icons=true alt="Smile's GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=smilegupta&count_private=true&show_icons=true/>
