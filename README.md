@@ -14,8 +14,4 @@ The green dots on my [**GitHub profile**](https://github.com/smilegupta?tab=repo
  - 💌 [@guptamiley3012@gmail.com](mailto:guptamiley3012@gmail.com)
 
 
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smilegupta&layout=compact&count_private=true"/>
-
-
-
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=smilegupta&count_private=true&show_icons=true/>
+  
