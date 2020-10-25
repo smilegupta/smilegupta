@@ -9,7 +9,7 @@ The green dots on my [**GitHub profile**](https://github.com/smilegupta?tab=repo
 
 #### Any Project you want me a part of ?
 
- - 👀 Ping me on [Telegram](https://t.me/smilegupta)
+ - 👀 Ping me on [Twitter](https://twitter.com/smileguptaaa)
 
  - 💌 [@guptamiley3012@gmail.com](mailto:guptamiley3012@gmail.com)
 
