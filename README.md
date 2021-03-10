@@ -14,5 +14,8 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 
  - 💌 [@guptamiley3012@gmail.com](mailto:guptamiley3012@gmail.com)
 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smilegupta&theme=material-palenight" />
+
+
 
   
