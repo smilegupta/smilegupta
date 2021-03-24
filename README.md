@@ -34,7 +34,7 @@ We live in a world where women, capable of giving birth to new life and having t
  </p>  <br/> 
 
 
-:dart: Find me Interesting? 
+## :dart: Find me Interesting? 
 **Say Hi to me on [LinkedIn](https://www.linkedin.com/in/smilegupta/)** :heart: 
 
 #### Any Project you want me a part of ?
