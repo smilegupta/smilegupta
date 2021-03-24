@@ -44,6 +44,7 @@ We live in a world where women, capable of giving birth to new life and having t
  - 💌 [@guptamiley3012@gmail.com](mailto:guptamiley3012@gmail.com)
 
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smilegupta" />
+##  Github Status 
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smilegupta" />
 
 
