@@ -21,8 +21,8 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 <a href="https://smilegupta.hashnode.dev/say-hello-to-react-introduction" title="Say Hello to React: Introduction"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615630153945/Lu6bYMOrk.png" alt="Say Hello to React: Introduction" width="250px" align="left" /></a>
 <a href="https://smilegupta.hashnode.dev/say-hello-to-react-introduction" title="Say Hello to React: Introduction"><strong>Say Hello to React: Introduction</strong></a>
 <br/> Welcome to [Say Hello to React](https://smilegupta.hashnode.dev/series/say-hello-react), a beginner-friendly series on React. The purpose of this series is to self-learn some amazing concepts of React (including hooks and redux too)  by making projects and doing a lot of hands-on exercises.
- </p> <br/>
-
+<br/> First, for beginners, if you are looking forward to exploring the field of front-end development especially React and you know the basis of HTML and JavaScript, this series is a good start for you....
+ </p>  <br/> 
 
 :dart: Find me Interesting? 
 **Say Hi to me on [LinkedIn](https://www.linkedin.com/in/smilegupta/)** :heart: 
