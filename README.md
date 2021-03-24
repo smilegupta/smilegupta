@@ -20,7 +20,9 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 <p align="left">
 <a href="https://smilegupta.hashnode.dev/say-hello-to-react-introduction" title="Say Hello to React: Introduction"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615630153945/Lu6bYMOrk.png" alt="Say Hello to React: Introduction" width="250px" align="left" /></a>
 <a href="https://smilegupta.hashnode.dev/say-hello-to-react-introduction" title="Say Hello to React: Introduction"><strong>Say Hello to React: Introduction</strong></a>
-<br/>  </p> <br/> <br/>
+<br/> Hello Devs 👋  <br/>
+This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies.
+Today, I'm gonna share 25 Marvelous Resources to s... </p> <br/>
 
 
 :dart: Find me Interesting? 
