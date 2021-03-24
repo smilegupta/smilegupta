@@ -30,8 +30,7 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 <br/> If you are an Indian, you would have heard this phrase a-lot many times that अरे तूम तो लड़की हो क्या ही कर लो गए (You are just a girl what worth remembering you can do)
 Weird right? Why are people so hung up on these taboos? I will never understand!
 
-We live in a world where women, capable of giving birth to new life and having to undergo tremendous pain every month during their periods are still proclaimed physically weak.
-...
+We live in a world where women, capable of giving birth to new life and having to undergo....
  </p>  <br/> 
 
 
