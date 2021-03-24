@@ -18,7 +18,7 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 ## My Recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://smilegupta.hashnode.dev/say-hello-to-react-introduction" title="Say Hello to React: Introduction"><img src="https://smilegupta.hashnode.dev/say-hello-to-react-introduction" alt="Say Hello to React: Introduction" width="250px" align="left" /></a>
+<a href="https://smilegupta.hashnode.dev/say-hello-to-react-introduction" title="Say Hello to React: Introduction"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615630153945/Lu6bYMOrk.png" alt="Say Hello to React: Introduction" width="250px" align="left" /></a>
 <a href="https://smilegupta.hashnode.dev/say-hello-to-react-introduction" title="Say Hello to React: Introduction"><strong>Say Hello to React: Introduction</strong></a>
 <br/>  </p> <br/> <br/>
 
