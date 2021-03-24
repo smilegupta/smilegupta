@@ -23,6 +23,17 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 <br/> Welcome to [Say Hello to React](https://smilegupta.hashnode.dev/series/say-hello-react), a beginner-friendly series on React. The purpose of this series is to self-learn some amazing concepts of React (including hooks and redux too)  by making projects and doing a lot of hands-on exercises.
 <br/> First, for beginners, if you are looking forward to exploring the field of front-end development especially React and you know the basis of HTML and JavaScript, this series is a good start for you....
  </p>  <br/> 
+ 
+ <p align="left">
+<a href="https://smilegupta.hashnode.dev/choosetochallenge-stereotypes" title="#ChooseToChallenge: Stereotypes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614701462158/HVRhcfX4j.jpeg" alt="#ChooseToChallenge: Stereotypes" width="250px" align="left" /></a>
+<a href="https://smilegupta.hashnode.dev/choosetochallenge-stereotypes" title="#ChooseToChallenge: Stereotypes"><strong>#ChooseToChallenge: Stereotypes</strong></a>
+<br/> If you are an Indian, you would have heard this phrase a-lot many times that अरे तूम तो लड़की हो क्या ही कर लो गए (You are just a girl what worth remembering you can do)
+Weird right? Why are people so hung up on these taboos? I will never understand!
+
+We live in a world where women, capable of giving birth to new life and having to undergo tremendous pain every month during their periods are still proclaimed physically weak.
+...
+ </p>  <br/> 
+
 
 :dart: Find me Interesting? 
 **Say Hi to me on [LinkedIn](https://www.linkedin.com/in/smilegupta/)** :heart: 
