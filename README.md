@@ -34,7 +34,7 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 Weird right? Why are people so hung up on these taboos? I will never understand!
 
 We live in a world where women, capable of giving birth to new life and having to undergo....
- </p>  <br/> 
+ </p>  
 
 
 ## :dart: Find me Interesting? 
