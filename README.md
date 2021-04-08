@@ -19,7 +19,12 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
 ## My Recent Blog posts ✍️
-<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://smilegupta.hashnode.dev/a-year-at-konfhub" title="A Year at KonfHub"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617881788202/kd1aZ2E_g.png" alt="A Year at KonfHub" width="250px" align="left" /></a>
+<a href="https://smilegupta.hashnode.dev/a-year-at-konfhub" title="A Year at KonfHub"><strong>A Year at KonfHub</strong></a>
+<br/> Time flies. It surely does. It feels like yesterday when I think of the moment I joined KonfHub Tech Conferences. Today is the day exactly a year ago I became a Frontend Dev. The day I joined KonfHub Team, I had zero experience in making applications using React or Next. I still remember my first task where I have to make a Landing Page for JetBrains tools and Lalit Sharma made me write the code using React and Bulma. I absolutely did not know the tech stack. Wonder what helped in excelling things at work "A Can-Do Attitude".
+ </p>  <br/> 
+ 
 <p align="left">
 <a href="https://smilegupta.hashnode.dev/say-hello-to-react-introduction" title="Say Hello to React: Introduction"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615630153945/Lu6bYMOrk.png" alt="Say Hello to React: Introduction" width="250px" align="left" /></a>
 <a href="https://smilegupta.hashnode.dev/say-hello-to-react-introduction" title="Say Hello to React: Introduction"><strong>Say Hello to React: Introduction</strong></a>
