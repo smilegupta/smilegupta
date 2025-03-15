@@ -14,7 +14,7 @@ By night, I’m either debugging why CSS hates me, exploring frontend system des
 - 🛠️ **Engineering:** Solving **frontend puzzles** & optimizing **performance** for **better UX**.  
 - 🎮 **Gaming:** Living alternate realities in **Sims 4** (because debugging reality isn’t enough).  
 - 🌍 **Community:** Hanging out at **JS Lovers Bangalore**, because **frontend folks stick together**.  
-- ✍️ **Currently Writing:** *A Noob’s Handbook to Software Design* – **For those who love clean code but also spaghetti 🍝.**  
+- ✍️ **Currently Writing:** *A Noob’s Handbook to Frontend System Design* – **For those who love clean code but also some sumptuous spaghetti🍝.**  
 ---
 
 ## ⚡ My Tech Stack  
